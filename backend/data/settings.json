@@ -1,0 +1,7 @@
+{
+  "retrieval_threshold": 0.38,
+  "top_k": 5,
+  "chunk_size": 900,
+  "chunk_overlap": 120,
+  "max_upload_mb": 10
+}

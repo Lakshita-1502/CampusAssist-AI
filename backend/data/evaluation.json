@@ -1,0 +1,22 @@
+[
+ {"query":"When must I submit the examination registration form?","category":"Examination","document":"examination_notice.txt"},
+ {"query":"What is the last date for exam sign up?","category":"Examination","document":"examination_notice.txt"},
+ {"query":"When do semester exams start?","category":"Examination","document":"examination_notice.txt"},
+ {"query":"How can I get my admit card?","category":"Examination","document":"examination_notice.txt"},
+ {"query":"How many classes can I miss before exam ineligibility?","category":"Attendance","document":"attendance_policy.txt"},
+ {"query":"What percent of lectures must I attend?","category":"Attendance","document":"attendance_policy.txt"},
+ {"query":"How is attendance calculated?","category":"Attendance","document":"attendance_policy.txt"},
+ {"query":"What should I do if I have medical leave?","category":"Attendance","document":"attendance_policy.txt"},
+ {"query":"How do I pay semester tuition?","category":"Fees","document":"fees_information.txt"},
+ {"query":"Where can I see my fee dues?","category":"Fees","document":"fees_information.txt"},
+ {"query":"What if my online payment fails?","category":"Fees","document":"fees_information.txt"},
+ {"query":"How do I join campus recruitment?","category":"Placements","document":"placement_notice.txt"},
+ {"query":"Where are company job eligibility requirements?","category":"Placements","document":"placement_notice.txt"},
+ {"query":"How do I apply for an internship in semester six?","category":"Internship","document":"internship_guidelines.txt"},
+ {"query":"What paperwork is needed after my internship?","category":"Internship","document":"internship_guidelines.txt"},
+ {"query":"Where is my weekly lecture schedule?","category":"Timetable","document":"timetable.txt"},
+ {"query":"When does the academic term begin?","category":"Academic","document":"academic_calendar.txt"},
+ {"query":"What documents do new applicants need?","category":"Admissions","document":"admissions.txt"},
+ {"query":"Where do I find campus festival dates?","category":"Events","document":"events.txt"},
+ {"query":"Which office can direct me to student services?","category":"General","document":"general_faq.txt"}
+]
