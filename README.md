@@ -25,8 +25,8 @@ Prerequisites: Git, Python 3.10 or newer, and Node.js 18 or newer. Replace the e
 In PowerShell:
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/Lakshita-1502/CampusAssist-AI.git
+cd CampusAssist-AI
 code .
 ```
 
